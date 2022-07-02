@@ -1,2 +1,2 @@
 # My-calculator
-My calculator
+HTML, CSS, JavaScript
